@@ -1,8 +1,6 @@
 
 # AGE CALCULATOR
 
-## Description
-
 A simple scrip to calculate the age of the user. The program will ask for your year of birth and return your current age.
 
 ## Updates
