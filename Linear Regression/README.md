@@ -1,2 +1,2 @@
 
-!(https://www.google.com/search?q=regresion+lineal&rlz=1C1CHBF_esES923ES923&tbm=isch&source=iu&ictx=1&vet=1&fir=or4nnRtlID2_eM%252Cv2wk-Ht1F6X2RM%252C%252Fm%252F04j_0%253Bu-PS01pDsR2DbM%252CSc9JCSPd9z3VJM%252C_%253BH_VbOm1y-s3ScM%252C4quCp3vjun-gkM%252C_%253BEJvA0CfytK5CFM%252CXU5bcnMBORpNJM%252C_%253BKOQE1SPZdkV4rM%252C5EJJ8AoIvBgaoM%252C_&usg=AI4_-kTpJJenZSjG733lLRzpCsJ8XYJK_Q&sa=X&ved=2ahUKEwi_6qOpnpP2AhWEzYUKHZOTDLsQ_B16BAgdEAE#imgrc=or4nnRtlID2_eM)
+!(https://www.iartificial.net/wp-content/uploads/2018/12/ejemplo-error-cuadratico-medio2.webp)
