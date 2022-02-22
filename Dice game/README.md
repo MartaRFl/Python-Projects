@@ -18,4 +18,4 @@ Currently, this scrip lacks some options that I am planning to implement in the 
 
 ## Technologies
 
-This scrip uses the library random to generate a random number between 1-6.
+This scrip uses the library random.
