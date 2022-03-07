@@ -1,2 +1,2 @@
-# Python Projects
+# Number Guessing
  My very first Python scripts.
