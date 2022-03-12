@@ -1,5 +1,8 @@
-# Python Projects
- My very first Python scripts.
+## PYTHON PROJECTS
+A list of begginer friendly srips that I developed on my early steps with Python. Most of them are still under construction since I'm continously improving the code in order to make it more clear and practical.
+Most of them have a list of desired updated in order to upgrade the functionalities they provide.
+
+
 | SR No | Project                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | [Age Calculator](https://github.com/MartaRFl/Python-Projects/tree/main/Age%20Calculator)                                     |   
